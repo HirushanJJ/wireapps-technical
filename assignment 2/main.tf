@@ -1,6 +1,6 @@
 provider "azurerm" {
   features {}
-  subscription_id = "b5e4b9c5-1d3f-4f80-a8a7-70a8527329fd"
+  subscription_id = "xxxxxxxx-xxxxxxx-xxxxxx-xxxxxxxx"
 }
 
 data "azurerm_resource_group" "Wireapps" {
